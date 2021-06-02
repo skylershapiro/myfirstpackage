@@ -31,6 +31,8 @@ This is a basic example which shows you how to solve a common problem:
 
 ``` r
 ## basic example code
+print("hello")
+#> [1] "hello"
 ```
 
 What is special about using `README.Rmd` instead of just `README.md`?
